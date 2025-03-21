@@ -8,7 +8,7 @@
 
 #### Windows
 
-1. 将下载的 Windows.zip 和代码包解压到同一个目录中。
+1. 将下载的 source.zip 中的 Windows 文件夹中的文件和代码包解压到同一个目录中。
 2. 找到 input.txt 并打开，输入格式如下：
 ```
 4
@@ -21,7 +21,7 @@ P1000 P1001 P1002 P1003
 
 #### Linux
 
-大体与 Windows 相似。
+大体与 Windows 相似，解压的是 Linux 目录中的文件。
 
 3. 运行 ./work。
 
